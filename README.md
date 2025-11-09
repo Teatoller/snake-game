@@ -26,3 +26,7 @@ If this project is in a remote Git repo:
 ```bash
 git clone https://github.com/Teatoller/snake-game.git
 cd snake-game
+```
+
+## Live Demo
+[Play Snake Game](https://teatoller.github.io/snake-game/)
